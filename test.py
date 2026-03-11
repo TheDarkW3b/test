@@ -1,7 +1,7 @@
 import time
 
 time.sleep(1)
-print("test")
+print("tssst")
 print("wow")
 print("ddssd")
 print("sdsd")
