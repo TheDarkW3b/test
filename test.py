@@ -2,4 +2,6 @@ import time
 
 time.sleep(1)
 print("test")
-print("hsdsdsdsdsddlo")
+print("hdsddsdslo")
+print("wow")
+print("hello")
